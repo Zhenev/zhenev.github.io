@@ -14,7 +14,7 @@ As a data scientist, I relish the research phase of a project - exploring the da
 
 Since everyone's goal is to deploy code as quickly as possible, delivering properly written (and documented!) code not only supports developers in their work, but literally makes everyone happier. Yes, data science is about discovery and experimentation. However, in the industry, very few companies can afford to give data scientists complete free rein. Doing your best by following good software engineering practices has become crucial to create real value for your organization.
 
-## What Does Good Software Engineering Practices Mean to You?
+## What Do Good Software Engineering Practices Mean to You?
 
 Before we proceed, I need to level with you: at the moment this post was written, I wasn't exactly a software engineer - and I may not be the one by the time you read this, either. However, through my own experience and working with skilled software engineers, I've learned firsthand the critical role that good coding practices play, both in general and especially when it comes to deploying models in production. Below is a list of a few tricks I've picked up along the way. I've already written about some of these practices in my other posts (links attached). In the current series, I will talk in more detail about the last three ones.
 
